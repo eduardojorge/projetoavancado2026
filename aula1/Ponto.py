@@ -30,7 +30,11 @@ if __name__ == "__main__":
     # Equivalente a Ponto(int x)
     p2 = Ponto(10)
     print(p2)
+    print(f"Ponto x={p2.get_x()} y={p2.get_y()}")
+    print(p2)
 
     # Equivalente a Ponto(int x, int y)
     p3 = Ponto(10, 20)
+    print(p3)
+    print(f"Ponto x={p3.get_x()} y={p3.get_y()}")
     print(p3)

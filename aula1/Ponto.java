@@ -40,7 +40,7 @@ public class Ponto {
 		return "Ponto x="+this.getX()+ " y="+this.getY();
 		
 	}
-	public static void main(String args[]){
+	-
 		
 		Ponto p = new Ponto();
 		
